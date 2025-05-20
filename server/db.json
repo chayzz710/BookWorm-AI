@@ -1,0 +1,41 @@
+{
+    "userId": ObjectId("682b28205671946d4cedcf88"),
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "cover": "https://covers.openlibrary.org/b/id/10203584-L.jpg",
+    "status": "to-read",
+    "dateMarkedToRead": ISODate("2024-05-01T00:00:00Z")
+},
+{
+    "userId": ObjectId("682b28205671946d4cedcf88"),
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "cover": "https://covers.openlibrary.org/b/id/10097812-L.jpg",
+    "status": "reading",
+    "dateMarkedToRead": ISODate("2024-04-25T00:00:00Z"),
+    "dateStarted": ISODate("2024-04-27T00:00:00Z")
+},
+{
+    "userId": ObjectId("682b28205671946d4cedcf88"),
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://covers.openlibrary.org/b/id/7222246-L.jpg",
+    "status": "read",
+    "rating": 5,
+    "comment": "Haunting and relevant.",
+    "dateMarkedToRead": ISODate("2024-03-10T00:00:00Z"),
+    "dateStarted": ISODate("2024-03-12T00:00:00Z"),
+    "dateCompleted": ISODate("2024-03-18T00:00:00Z")
+},
+{
+    "userId": ObjectId("682b28205671946d4cedcf88"),
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "cover": "https://covers.openlibrary.org/b/id/8281996-L.jpg",
+    "status": "read",
+    "rating": 4.5,
+    "comment": "Inspirational journey!",
+    "dateMarkedToRead": ISODate("2024-02-15T00:00:00Z"),
+    "dateStarted": ISODate("2024-02-17T00:00:00Z"),
+    "dateCompleted": ISODate("2024-02-20T00:00:00Z")
+}

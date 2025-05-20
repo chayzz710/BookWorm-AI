@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* Scrollbar hidden or beautified */
+.custom-scroll {
+    scrollbar-width: thin;
+    /* Firefox */
+    scrollbar-color: #A67B5B #FAF1E0;
+    /* Firefox */
+}
+
+/* Chrome, Edge, Safari */
+.custom-scroll::-webkit-scrollbar {
+    width: 6px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+    background: #FAF1E0;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+    background-color: #A67B5B;
+    border-radius: 10px;
+    border: 2px solid #F7F2E7;
+}
