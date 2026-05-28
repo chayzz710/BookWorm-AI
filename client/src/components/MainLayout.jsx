@@ -1,20 +1,5 @@
-//MainLayOUt.jsx
-// import Sidebar from "./Sidebar";
-// import { Outlet } from "react-router-dom";
-
-// export default function MainLayout() {
-//     return (
-//         <div className="flex">
-//             <Sidebar />
-//             <main className="flex-grow p-6">
-//                 <Outlet />
-//             </main>
-//         </div>
-//     );
-// }
-
 import React, { useState } from 'react'
-import Sidebar from "./Sidebar";
+import Sidebar from "./SideBar";
 import { Outlet } from "react-router-dom";
 import Header from "./Header";
 import SearchResults from "./SearchResults";
