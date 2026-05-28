@@ -116,16 +116,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## API Keys
-
-| Key | Where to get it | Free tier |
-|---|---|---|
-| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) | ✅ 14,400 req/day |
-| `GOOGLE_BOOKS_API_KEY` | [console.cloud.google.com](https://console.cloud.google.com) | ✅ 1,000 req/day |
-| `DEEPGRAM_API_KEY` | [console.deepgram.com](https://console.deepgram.com) | ✅ $200 free credit |
-
----
-
 ## Voice Search
 
 **In the search bar (Header):** click the mic icon, speak your query, and the search fires automatically when you finish. Uses Deepgram `nova-2` via the `/transcribe` backend endpoint.
